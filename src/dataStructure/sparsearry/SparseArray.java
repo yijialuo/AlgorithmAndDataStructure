@@ -1,4 +1,4 @@
-package DataStructure.sparsearry;
+package dataStructure.sparsearry;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

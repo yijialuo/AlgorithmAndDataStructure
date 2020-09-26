@@ -1,4 +1,4 @@
-package DataStructure.queue;
+package dataStructure.queue;
 
 //目前数组使用一次就不能用，没有达到复用的效果
 //将这个数组使用算法，改进成一个环形的数组 取模：%
